@@ -3,10 +3,11 @@ import './App.css'
 import SideBar from "./components/SideBar";
 import Navbar from "./components/Navbar";
 import Card from "./components/Card";
+import data from './DummyData/data.js'
 
 function App() {
   const [sidebar, setsidebar] = useState(false)
-  const [newsData, setnewsData] = useState()
+  const [newsData, setnewsData] = useState(data)
   const [newstype, setnewstype] = useState("")
   const [newsdetails, setnewsdetails] = useState("")
 
@@ -30,7 +31,7 @@ function App() {
   console.log(newsData)
 
   useEffect(() => {
-    loadNewsData()
+    // loadNewsData()
   }, [])
   
 
