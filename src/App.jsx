@@ -4,17 +4,18 @@ import SideBar from "./components/SideBar";
 import Navbar from "./components/Navbar";
 import Card from "./components/Card";
 import data from './DummyData/data.js'
+import RefreshIcon from '@mui/icons-material/Refresh';
 
 function App() {
   const [sidebar, setsidebar] = useState(false)
   const [newsData, setnewsData] = useState(data)
-  const [newstype, setnewstype] = useState("")
+  const [query, setQuery] = useState('top-headlines?country=in')
   const [newsdetails, setnewsdetails] = useState("")
 
   const loadNewsData = async () => {
     let API_KEY = "9b91159d54c9432da70f054ed183bd4e"
     try {
-      await fetch(`https://newsapi.org/v2/top-headlines?country=us&apiKey=${API_KEY}`)
+      await fetch(`https://newsapi.org/v2/${query}&apiKey=${API_KEY}`)
         .then(response => {
           if (response.ok) {
             return response.json();
@@ -28,23 +29,25 @@ function App() {
     }
     catch (error) { console.log(error) }
   }
-  console.log(newsData)
+  // console.log(newsData)
 
   useEffect(() => {
     // loadNewsData()
-  }, [])
+  }, [query])
   
 
   return (
     <>
-      <Navbar />
-      <div className={`flex flex-row justify-between transition-all duration-1000 ease-in-out ${sidebar ? "ml-0 md:ml-[30vw]" : "md:ml-0 ml-0"}`}>
-        <SideBar sidebar={sidebar} setsidebar={setsidebar} setnewstype={setnewstype} />
-        <section className="flex flex-col justify-center items-center p-1">
+      <Navbar query={query} setQuery={setQuery}/>
+      <div className={`flex flex-row justify-between transition-all duration-1000 ease-in-out`}>
+        <SideBar sidebar={sidebar} setsidebar={setsidebar} setQuery={setQuery} />
+        <section className="absolute flex flex-col justify-center items-center p-1">
                 <div className="flex flex-row flex-wrap justify-center items-center">
-                    {newsData && newsData.articles.map((item, index) => {
+                    {newsData ? newsData.articles.map((item, index) => {
                         return <Card key={index} data={item} />
-                    })}
+                    }) :
+                    <div className="flex justify-center items-center mx-auto"><RefreshIcon/></div>
+                    }
                 </div>
                 <div className="flex justify-center py-10">
                     <button className="p-3 text-white px-6 bg-blue-500 rounded-lg btn">

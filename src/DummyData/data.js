@@ -1,266 +1,266 @@
 let data = {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
     {
     "source": {
-    "id": "the-washington-post",
-    "name": "The Washington Post"
+    "id": null,
+    "name": "India TV News"
     },
-    "author": "Michael Brice-Saddler, Meagan Flynn, Jonathan O'Connell",
-    "title": "How Bowser played the long game to keep Capitals, Wizards in D.C. - The Washington Post",
-    "description": "For months, D.C.’s mayor quietly worked to bring the teams’ owner back to the negotiating table, sweetening D.C.’s offer just as the arena plan was crumbling in Virginia.",
-    "url": "https://www.washingtonpost.com/dc-md-va/2024/03/30/dc-bowser-arena-leonsis-wizards-capitals-deal/",
-    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EDSW54TBBXVJY7EJGQ7RCW5NOM.JPG&w=1440",
-    "publishedAt": "2024-03-30T15:55:45Z",
-    "content": "One detail stood out to D.C. Mayor Muriel E. Bowser onthe December morning that the billionaire owner of the Wizards and Capitals, Ted Leonsis, announced he was moving the Washington teams to Virgini… [+9963 chars]"
+    "author": "Saumya Nigam",
+    "title": "Garena Free Fire Max redeem codes: March 31, 2024 - India TV News",
+    "description": "Here are the redeem codes for the Free Fire Max game, which will enable the players to enjoy freebies, during the gameplay, which are time-bound.",
+    "url": "https://www.indiatvnews.com/technology/news/garena-free-fire-max-redeem-codes-march-31-2024-2024-03-31-923975",
+    "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/03/free-fire-game-1711872476.jpg",
+    "publishedAt": "2024-03-31T08:14:41Z",
+    "content": "Garena Free Fire MAX, one of the popular combat games has released its redeem codes for the day, i.e., March 31, 2024. The everyday codes will enable the players to download reward from the official … [+1958 chars]"
     },
     {
     "source": {
     "id": null,
-    "name": "BBC News"
+    "name": "The Indian Express"
+    },
+    "author": "Lifestyle Desk",
+    "title": "Should you ditch brown rice and go back to eating white rice again? - The Indian Express",
+    "description": "Brown rice vs. white rice: Debunking myths and understanding the truth. Learn the health benefits and drawbacks of each type of rice to make informed dietary choices.",
+    "url": "https://indianexpress.com/article/lifestyle/life-style/brown-rice-white-rice-nutrition-benefits-drawbacks-9237992/",
+    "urlToImage": "https://images.indianexpress.com/2024/03/brown-rice-2.jpg",
+    "publishedAt": "2024-03-31T07:45:30Z",
+    "content": "In the age of busting myths and debunking claims, many believed that brown rice is indeed much healthier than white rice, with several experts agreeing with it to be true. But, in came the onslaught … [+3706 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NDTV News"
+    },
+    "author": "Rahul Kumar",
+    "title": "Bihar Board 10th Result 2024 LIVE: Scorecards To Be Out Shortly, Check Steps To Download - NDTV",
+    "description": "BSEB 10th Result 2024 LIVE: Shivankar from Purnea has secured the top spot, with Adarsh Kumar from Samastipur following in second place. Aadiya, Suman, Palak, and Shajiya secure the third position.",
+    "url": "https://www.ndtv.com/education/bihar-board-10th-result-2024-live-updates-bihar-board-matric-result-scorecards-to-be-released-at-1-30pm-on-biharboardonline-bihar-gov-in-5343641",
+    "urlToImage": "https://c.ndtvimg.com//result_625x300_1529668845531.jpg",
+    "publishedAt": "2024-03-31T07:24:35Z",
+    "content": "LIVE Bihar Board Class 10th Result 2024: The exams were conducted from February 15 to February 23.\r\nBihar Board 10th Result 2024 LIVE Updates: The Bihar School Examination Board (BSEB) has declared C… [+5230 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "News18"
+    },
+    "author": "Sheen Kachroo",
+    "title": "BJP's 8th List Of LS Poll Candidates: Ex-IPS Officer Debashish Dhar, Preneet Kaur Make The Cut; Sunny Deol - News18",
+    "description": "The list includes three states West Bengal, Odisha and Punjab. This time, the party has replaced actor Sunny Deol and has given Gurdaspur ticket to Dinesh Singh Babbu.",
+    "url": "https://www.news18.com/elections/bjps-8th-list-of-candidates-for-ls-polls-out-former-ips-officer-debashish-dhar-preneet-kaur-make-the-cut-8834211.html",
+    "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/03/bjp-lok-sabha-election-list-2024-03-0fe22573deee221ee06a5844b21427c2-16x9.png?impolicy=website&width=1200&height=675",
+    "publishedAt": "2024-03-31T07:10:55Z",
+    "content": "The Bharatiya Janata Party released the 8th list of candidates for the ensuing Lok Sabha elections on Saturday. The list includes the names of 11 candidates including former IPS officer Debashish Dha… [+1945 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "HT News Desk",
+    "title": "President Murmu confers Bharat Ratna upon BJP veteran LK Advani - Hindustan Times",
+    "description": "President Droupadi Murmu conferred Bharat Ratna upon LK Advani. PM Narendra Modi was also present at Advani's residence. | Latest News India",
+    "url": "https://www.hindustantimes.com/india-news/president-murmu-confers-bharat-ratna-upon-bjp-veteran-lk-advani-101711867216842.html",
+    "urlToImage": "https://images.livemint.com/img/2024/03/31/1600x900/advani_1711867356041_1711867368624.jpg",
+    "publishedAt": "2024-03-31T06:44:15Z",
+    "content": "President Droupadi Murmu on Sunday conferred the Bharat Ratna, India's highest civilian award, upon Bharatiya Janata Party veteran Lal Krishna Advani at the latter's residence in Delhi. Prime Ministe… [+2163 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "Neha Yadav",
+    "title": "5 minerals essential for hair growth - Hindustan Times",
+    "description": "Here are some minerals that are vital for hair growth.",
+    "url": "https://www.hindustantimes.com/web-stories/lifestyle/5-minerals-essential-for-hair-growth-101711866212560.html",
+    "urlToImage": null,
+    "publishedAt": "2024-03-31T06:43:03Z",
+    "content": "By Neha YadavPublished Mar 31, 2024\r\nHindustan TimesLifestylePhoto Credits: Pexels"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NDTV News"
     },
     "author": null,
-    "title": "Man arrested as hostage situation in Dutch nightclub ends - BBC.com",
-    "description": "The man had held four people hostage inside a nightclub in the eastern Dutch town of Ede.",
-    "url": "https://www.bbc.com/news/world-europe-68698022",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12F1A/production/_133049577_9d7b4bfdbf3bc943e26437d898395de2ff7370e6.jpg",
-    "publishedAt": "2024-03-30T15:53:25Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "associated-press",
-    "name": "Associated Press"
-    },
-    "author": "JACK JEFFERY",
-    "title": "Israel acknowledges troops killed 2 Palestinians after video captures shooting on a Gaza beach - The Associated Press",
-    "description": "Israel’s military has acknowledged its troops shot dead two Palestinians and wounded a third along Gaza’s beach. Saturday's statement came after a video showed one man falling to the ground after walking in an open area and then a bulldozer pushing two bodies…",
-    "url": "https://apnews.com/article/israel-gaza-shooting-palestinians-beach-d0ffbbda3c0aa8873483b6685bb9ddd0",
-    "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-    "publishedAt": "2024-03-30T15:27:28Z",
-    "content": "JERUSALEM (AP) Israeli troops shot dead two Palestinians and wounded a third on Gazas beach, the military acknowledged Saturday, responding to a video that showed one man falling to the ground after … [+3231 chars]"
-    },
-    {
-    "source": {
-    "id": "the-verge",
-    "name": "The Verge"
-    },
-    "author": "Brandon Widder",
-    "title": "Apple's AirTags have briefly returned to their best price to date - The Verge",
-    "description": "A four-pack of Apple’s item trackers is on sale at Amazon and elsewhere for $74.99. You can also score discounts on a Kindle Paperwhite and an annual Max subscription.",
-    "url": "https://www.theverge.com/2024/3/30/24115667/apple-airtag-amazon-kindle-paperwhite-hbo-max-subscription-deal-sale",
-    "urlToImage": "https://cdn.vox-cdn.com/thumbor/0qHRWoUCBUsPKkpfKx8mslzSJhg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22461392/vpavic_4547_20210421_0119.jpg",
-    "publishedAt": "2024-03-30T15:06:10Z",
-    "content": "Apples AirTags have briefly returned to their best price to date\r\nApples AirTags have briefly returned to their best price to date\r\n / Plus, you still have a chance to take advantage of the first dea… [+5511 chars]"
+    "title": "Cash-Strapped Pak Bans Red Carpets At Official Events To Cut Costs - NDTV",
+    "description": "Pakistan Prime Minister Shehbaz Sharif has banned the use of red carpets at government events, reserving them exclusively for diplomatic receptions, as part of austerity measures to cut down unnecessary expenditures in the cash-strapped nation.",
+    "url": "https://www.ndtv.com/world-news/cash-strapped-pakistan-pm-shehbaz-sharif-bans-red-carpets-at-official-events-to-cut-costs-5344182",
+    "urlToImage": "https://c.ndtvimg.com/2024-03/m7bg7v2g_shehbaz-sharif_625x300_31_March_24.jpeg?ver-20240316.08",
+    "publishedAt": "2024-03-31T06:37:39Z",
+    "content": "A ban has been imposed on the use of red carpet on Pakistan PM Shehbaz Sharif's directives\r\nIslamabad: Pakistan Prime Minister Shehbaz Sharif has banned the use of red carpets at government events, r… [+2019 chars]"
     },
     {
     "source": {
     "id": null,
-    "name": "The Athletic"
+    "name": "Hindustan Times"
     },
-    "author": "Dan Hayes",
-    "title": "Royce Lewis headed to injured list, Twins to activate Austin Martin: Source - The Athletic",
-    "description": "The Twins' young star sustained a right quad injury in the season opener that has him headed to the IL for the fifth time in his career.",
-    "url": "https://theathletic.com/5379215/2024/03/30/royce-lewis-injured-list-twins/",
-    "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/03/30104732/USATSI_22889238-scaled.jpg",
-    "publishedAt": "2024-03-30T15:01:19Z",
-    "content": "KANSAS CITY, Mo. Royce Lewis is headed back to the injured list.\r\nThe Minnesota Twins young stars season lasted only three innings before he sustained a right quad injury that has him headed to the I… [+1877 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Deadline"
-    },
-    "author": "Anthony D'Alessandro",
-    "title": "‘Godzilla x Kong: The New Empire’ Opening Scales Up To $75M, Still Second Best For Legendary Monsterverse – Saturday AM Box Office - Deadline",
-    "description": "Legendary Warner Bros 'Godzilla x Kong: New Empire' is set to post the second best opening in the Legendary Monsterverse franchise with $75M.",
-    "url": "http://deadline.com/2024/03/box-office-godzilla-x-kong-the-new-empire-1235871440/",
-    "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/MCDGOXK_WB024_4867c4.jpg?w=1024",
-    "publishedAt": "2024-03-30T14:56:00Z",
-    "content": "SATURDAY AM WRITETHRU after Friday Night post : This is how a great box office weekend should be. A studio goes into the frame expecting ‘X’, and they wind up with a substantially higher ‘Y’. It was … [+12756 chars]"
-    },
-    {
-    "source": {
-    "id": "buzzfeed",
-    "name": "Buzzfeed"
-    },
-    "author": "Morgan Murrell",
-    "title": "Lizzo Posts Cryptic \"I Quit\" Post, Celebrities Share Support - BuzzFeed",
-    "description": "\"All I want is to make music and make people happy.\"",
-    "url": "https://www.buzzfeed.com/morganmurrell/celebrities-support-lizzo-after-cryptic-post",
-    "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-03/30/12/enhanced/c1ffe1f01d30/original-619-1711802380-2.jpg?crop=752:394;0,69%26downsize=1250:*",
-    "publishedAt": "2024-03-30T14:43:45Z",
-    "content": null
+    "author": "HT News Desk",
+    "title": "INDIA Bloc Mega Rally Live: Sunit Kejriwal, Bhagwant Mann leave for Ramlila Maidan - Hindustan Times",
+    "description": "INDIA Bloc Mega Rally Live: The ‘Loktantra Bachao’ rally is being held at Delhi's historic Ramlila Maidan, though with certain conditions.",
+    "url": "https://www.hindustantimes.com/india-news/loktantra-bacho-rally-india-bloc-protest-live-updates-march-31-2024-ramlila-maidan-arvind-kejriwal-101711850026266.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/31/550x309/INDIA-ELECTION-OPPOSITION-0_1711864241479_1711864330683.JPG",
+    "publishedAt": "2024-03-31T06:27:42Z",
+    "content": "INDIA Bloc Mega Rally Live: Leaders of the opposition INDIA bloc have assembled at Delhi's historic Ramlila Maidan for their Loktantra Bachao (save democracy) rally on Sunday. While the AAP, a member… [+7801 chars]"
     },
     {
     "source": {
     "id": null,
-    "name": "BBC News"
+    "name": "Moneycontrol"
+    },
+    "author": "PTI",
+    "title": "Market valuation of 7 most valued firms climbs Rs 67,259.99 crore; Reliance top gainer - Moneycontrol",
+    "description": "Reliance Industries continued to rule the chart of the most valued firms, followed by TCS, HDFC Bank, ICICI Bank, Bharti Airtel, State Bank of India, Infosys, LIC, ITC and Hindustan Unilever",
+    "url": "https://www.moneycontrol.com/news/business/markets/market-valuation-of-7-most-valued-firms-climbs-rs-67259-99-crore-reliance-top-gainer-12548411.html",
+    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/03/Market_up-2-770x433.jpeg",
+    "publishedAt": "2024-03-31T06:07:21Z",
+    "content": "The combined market valuation of seven of the 10 most valued firms climbed Rs 67,259.99 crore in a holiday-shortened last week, with Reliance Industries emerging as the biggest gainer, amid an overal… [+1970 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "Lifestyle Desk",
+    "title": "Is social anxiety holding you back? Recognise the signs to cope with it - The Indian Express",
+    "description": "Feeling overwhelmed in social situations? Social anxiety can be debilitating, but there's hope. Learn about the causes, symptoms, and effective coping strategies to manage social anxiety and reclaim your life.",
+    "url": "https://indianexpress.com/article/lifestyle/health/social-anxiety-disorder-phobia-fear-mental-health-9238235/",
+    "urlToImage": "https://images.indianexpress.com/2024/03/social-anx.jpg",
+    "publishedAt": "2024-03-31T06:02:06Z",
+    "content": "Social anxiety is a disorder that can present several roadblocks in someones life. It can hinder their ability to meet and interact with others, leading to increasing seclusion and overwhelming feeli… [+6771 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Livemint"
+    },
+    "author": "Alka Jain",
+    "title": "Congress gets fresh income tax notice, IT dept demands ₹3,567 crore now | Mint - Mint",
+    "description": "Congress receives fresh income tax notices worth  ₹1,745 crore for assessment years 2014-15 to 2016-17, total notice now stands at  ₹3,567 crore. BJP accused of tax terrorism ahead of Lok Sabha elections.",
+    "url": "https://www.livemint.com/news/india/congress-gets-fresh-income-tax-notice-it-dept-demands-rs-3-567-crores-now-11711863601950.html",
+    "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/31/1600x900/Congress-Mallikarjun-Kharge_Lok_Sabha_polls_1711644496525_1711864258628.jpg",
+    "publishedAt": "2024-03-31T05:56:16Z",
+    "content": "The Congress on Saturday received fresh income tax notices worth 1,745 crore for the assessment years 2014-15 to 2016-17, the party said. With this, the total notice for assessment years 1994-95 and … [+5776 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
     },
     "author": null,
-    "title": "Israel Gaza: US weapons to Israel a sign of thaw in strained ties - BBC.com",
-    "description": "The delivery of arms to Israel comes as the US expresses concern over deaths and suffering amongst Gaza's residents.",
-    "url": "https://www.bbc.com/news/world-middle-east-68698357",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/65F9/production/_133050162_mediaitem133050161.jpg",
-    "publishedAt": "2024-03-30T14:37:10Z",
+    "title": "Key Dietary Problems: Ways To Combine Foods To Improve Protein Intake | The Medicine Box | CNBC TV18 - CNBC-TV18",
+    "description": "In this segment of the Medicine Box, Ekta Batra speaks with Dr Eileen Canday, HoD, Nutrition & Dietetics at Sir HN Reliance Foundation Hospital & Disease Rev...",
+    "url": "https://www.youtube.com/watch?v=mYAADv6lg8M",
+    "urlToImage": "https://i.ytimg.com/vi/mYAADv6lg8M/maxresdefault.jpg",
+    "publishedAt": "2024-03-31T05:55:43Z",
     "content": null
     },
     {
     "source": {
-    "id": "cnn",
-    "name": "CNN"
+    "id": null,
+    "name": "Hindustan Times"
     },
-    "author": "Kate Sullivan, Shania Shelton",
-    "title": "Trump posts video that shows image of Biden tied up in the back of a truck - CNN",
-    "description": "Former President Donald Trump on Friday posted a video that featured an image of President Joe Biden tied up in the back of a pickup truck.",
-    "url": "https://www.cnn.com/2024/03/30/politics/trump-posts-video-that-shows-image-of-biden-tied-up-in-the-back-of-a-truck/index.html",
-    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2112640005.jpg?c=16x9&q=w_800,c_fill",
-    "publishedAt": "2024-03-30T14:00:00Z",
-    "content": "Former President Donald Trump on Friday posted a video that featured an image of President Joe Biden tied up in the back of a pickup truck.\r\nTrump indicated that the post was filmed on Long Island on… [+2454 chars]"
+    "author": "PTI",
+    "title": "CCI chief says recently notified regulations applicable to cases under investigation - Hindustan Times",
+    "description": "CCI chief says recently notified regulations applicable to cases under investigation",
+    "url": "https://www.hindustantimes.com/business/cci-chief-says-recently-notified-regulations-applicable-to-cases-under-investigation-101711864389747.html",
+    "urlToImage": "https://images.hindustantimes.com/default/1600x900.jpg",
+    "publishedAt": "2024-03-31T05:53:09Z",
+    "content": "New Delhi, The recently notified competition regulations on settlement, commitment, leniency plus and global turnover will be applicable to cases that are under investigation by the Competition Commi… [+2794 chars]"
     },
     {
     "source": {
     "id": null,
-    "name": "CBS Sports"
+    "name": "Livemint"
     },
-    "author": "",
-    "title": "2024 March Madness live stream: NCAA Tournament TV schedule, watch Elite Eight streaming online Saturday - CBS Sports",
-    "description": "Everything you need to know and how to watch Saturday's Elite Eight action in the 2024 NCAA Tournament",
-    "url": "https://www.cbssports.com/college-basketball/news/2024-march-madness-live-stream-ncaa-tournament-tv-schedule-watch-elite-eight-streaming-online-saturday/",
-    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/30/f4f768ba-29cd-47f4-ac28-5b2528853799/thumbnail/1200x675/c8c5362654f63035b6488c238538cf7e/usatsi-21992428-1.jpg",
-    "publishedAt": "2024-03-30T13:44:38Z",
-    "content": "We have reached the final stages of the 2024 NCAA Tournament with just eight teams remaining, 60 eliminated and by the end of Saturday night two teams will have their tickets punched to the Final Fou… [+5334 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "KTLA Los Angeles"
-    },
-    "author": "Austin Turner",
-    "title": "Heavy rain moves through Southern California, dangerous conditions possible - KTLA Los Angeles",
-    "description": "Heavy rainfall moved through Southern California early Saturday morning as part of what’s supposed to be a wet day in the region, bringing potentially dangerous conditions as flood warnings go into effect. Between one and three inches of rain was expected for…",
-    "url": "https://ktla.com/news/local-news/heavy-rain-moves-through-southern-california-dangerous-conditions-possible/",
-    "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/03/snapshot-12-8.jpg?w=1280",
-    "publishedAt": "2024-03-30T13:44:17Z",
-    "content": "Heavy rainfall moved through Southern California early Saturday morning as part of what’s supposed to be a wet day in the region, bringing potentially dangerous conditions as flood warnings go into e… [+1082 chars]"
+    "author": "Livemint",
+    "title": "‘Eye opening’: PM Modi lashes out at Congress for giving away Katchatheevu island to Sri Lanka | Mint - Mint",
+    "description": "The Katchatheevu island debate has taken centre stage in Tamil Nadu politics as the Lok Sabha election nears",
+    "url": "https://www.livemint.com/politics/news/eye-opening-pm-modi-lashes-out-at-congress-for-giving-away-katchatheevu-island-to-sri-lanka-11711860358313.html",
+    "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/31/1600x900/narendra_modi_1711863720910_1711863721122.jpg",
+    "publishedAt": "2024-03-31T05:50:24Z",
+    "content": "Prime Minister Narendra Modi on Sunday lashed out at the Congress party over a controversial island, Katchatheevu that was given to Sri Lanka by former Indian Prime Minister Indira Gandhi in 1974. Th… [+6979 chars]"
     },
     {
     "source": {
     "id": null,
-    "name": "Salon"
+    "name": "NDTV News"
     },
     "author": null,
-    "title": "VP Kamala Harris praises Beyoncé for reclaiming country music's Black roots - Salon",
-    "description": "VP Kamala Harris praises Beyoncé for reclaiming country music’s Black roots",
-    "url": "https://www.salon.com/2024/03/30/vp-kamala-harris-praises-beyonc-for-reclaiming-country-musics-black-roots/",
-    "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/03/kamala-harris-2107853740jpg.jpg",
-    "publishedAt": "2024-03-30T13:36:00Z",
+    "title": "\"I Had To Dissent\": Justice Nagarathna On Demonetisation Judgment - NDTV",
+    "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+    "url": "https://www.ndtv.com",
+    "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+    "publishedAt": "2024-03-31T05:43:33Z",
     "content": null
     },
     {
     "source": {
     "id": null,
-    "name": "HuffPost"
+    "name": "India.com"
     },
-    "author": "Jillian Wilson",
-    "title": "Crucial Signs for Early Colonoscopy Screening - BuzzFeed",
-    "description": "Rates of colorectal cancer are rising among young people. Don't ignore these red flags.",
-    "url": "https://www.huffpost.com/entry/colonoscopy-before-45-signs_l_65f49ae5e4b08b384f1b377f",
-    "urlToImage": "https://img.huffingtonpost.com/asset/65f49b582300003200656fc4.jpeg?ops=1200_630",
-    "publishedAt": "2024-03-30T13:16:02Z",
-    "content": "The recommended age to begin colonoscopy screening is 45, but some people should start sooner.\r\nIts been frequently reported that colorectal cancer rates are increasing in young people in the United … [+10055 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Space.com"
-    },
-    "author": "Mike Wall",
-    "title": "Spaceflight tripleheader - Space.com",
-    "description": "The action starts with a planned liftoff at 5:52 p.m. ET.",
-    "url": "https://www.space.com/spacex-launch-tripleheader-march-2024",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/ygEz73stQzeYT9eoG8ExnA-1200-80.jpg",
-    "publishedAt": "2024-03-30T13:00:16Z",
-    "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-    },
-    {
-    "source": {
-    "id": "the-washington-post",
-    "name": "The Washington Post"
-    },
-    "author": "Nicolás Rivero",
-    "title": "How the Baltimore Bridge collapse could impact the environment - The Washington Post",
-    "description": "Containers carrying hazardous materials were damaged. There is a sheen in the water. Recovery work runs the risk of stirring up toxic sediments.",
-    "url": "https://www.washingtonpost.com/climate-environment/2024/03/30/baltimore-bridge-environment-pollution-hazardous-materials/",
-    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TMGCTMVMDI5I4QP4ZSZSVXTBE4.jpg&w=1440",
-    "publishedAt": "2024-03-30T13:00:00Z",
-    "content": "Return to menuThe Key Bridge collapsed amid a decades-long effort to clean up industrial pollution in the Chesapeake Bay and the Patapsco River.\r\nThis watershed and Baltimores waterways have been pla… [+1272 chars]"
-    },
-    {
-    "source": {
-    "id": "nbc-news",
-    "name": "NBC News"
-    },
-    "author": "The Associated Press",
-    "title": "Zelenskyy fires more aides in a reshuffle as Russia launches drones and missiles across Ukraine - NBC News",
-    "description": "Ukrainian President Volodymyr Zelenskyy dismissed a longtime aide and several advisers on Saturday in a continuing reshuffle while Russia unleashed fresh attacks overnight.",
-    "url": "https://www.nbcnews.com/news/world/zelenskyy-fires-aides-reshuffle-russia-launches-drones-missiles-ukrain-rcna145721",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240330-ukraine-aa-868f1e.jpg",
-    "publishedAt": "2024-03-30T12:49:10Z",
-    "content": "KYIV, Ukraine Ukrainian President Volodymyr Zelenskyy dismissed a longtime aide and several advisers on Saturday in a continuing reshuffle while Russia unleashed fresh attacks overnight.\r\nZelenskyy d… [+2033 chars]"
+    "author": "Ankur Mishra",
+    "title": "Samsung Galaxy S23 Ultra Drops To Its `Lowest-Ever` Price on Flipkart; Check Bank Offers - Zee News",
+    "description": "The Samsung Galaxy S23 Ultra is currently available at a hefty discounted price on the e-commerce giant Flipkart in India. If you are interested in buying a premium smartphone, the Month End Mobile Fest Sale offers a golden opportunity to purchase the Samsung…",
+    "url": "https://zeenews.india.com/technology/samsung-galaxy-s23-ultra-drops-to-its-lowest-ever-price-on-flipkart-check-bank-offers-2735720.html",
+    "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2024/03/31/1384621-samsung-new.jpg",
+    "publishedAt": "2024-03-31T05:35:48Z",
+    "content": "New Delhi: The Samsung Galaxy S23 Ultra is currently available at a hefty discounted price on the e-commerce giant Flipkart in India. If you are interested in buying a premium smartphone, the Month E… [+1740 chars]"
     },
     {
     "source": {
     "id": null,
-    "name": "Yahoo Entertainment"
+    "name": "Hindustan Times"
     },
-    "author": "Alastair Marsh",
-    "title": "Bird Flu Found in Michigan, Idaho Cows as Virus Spreads in US - Yahoo Finance",
-    "description": "(Bloomberg) -- Highly pathogenic avian influenza has been discovered in dairy herds in Michigan and Idaho, indicating the virus is spreading into new US...",
-    "url": "https://finance.yahoo.com/news/bird-flu-found-michigan-idaho-123530727.html",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rKXt4A2Y0QxVDh1GIismWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/3dd9d21316e001d5d35d2b2f8d62a9f9",
-    "publishedAt": "2024-03-30T12:35:30Z",
-    "content": "(Bloomberg) -- Highly pathogenic avian influenza has been discovered in dairy herds in Michigan and Idaho, indicating the virus is spreading into new US states.\r\nMost Read from Bloomberg\r\nThe Nationa… [+1369 chars]"
-    },
-    {
-    "source": {
-    "id": "al-jazeera-english",
-    "name": "Al Jazeera English"
-    },
-    "author": "Al Jazeera",
-    "title": "UN observers wounded in explosion while on patrol in southern Lebanon - Al Jazeera English",
-    "description": "UNIFIL says targeting of peacekeepers ‘unacceptable’ as Israeli military denies striking area.",
-    "url": "https://www.aljazeera.com/news/2024/3/30/un-observers-wounded-in-explosion-while-on-patrol-in-southern-lebanon",
-    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AP24090390438184-1711798180.jpg?resize=1920%2C1440",
-    "publishedAt": "2024-03-30T12:31:25Z",
-    "content": "Three United Nations observers and one translator were wounded while patrolling the border in southern Lebanon when a shell exploded near them, the UN peacekeeping mission said.\r\nThe blast took place… [+2561 chars]"
+    "author": "HT Sports Desk",
+    "title": "Babar Azam reappointed as Pakistan's white-ball captain ahead of T20 World Cup, replaces Shaheen Afridi - Hindustan Times",
+    "description": "The decision was made official by the PCB on Sunday, two months before the start of the ICC T20 World Cup in the USA and the West Indies. | Cricket",
+    "url": "https://www.hindustantimes.com/cricket/babar-azam-reappointed-as-pakistan-white-ball-captain-ahead-of-t20-world-cup-replaces-shaheen-afridi-101711862070231.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/31/1600x900/babar_shaheen_1711862337294_1711862345616.jpg",
+    "publishedAt": "2024-03-31T05:22:22Z",
+    "content": "Four months after being removed from the leadership role across formats, following a poor outing in the 2023 ODI World Cup in India, Babar Azam has been reappointed as the captain of Pakistan cricket… [+1794 chars]"
     },
     {
     "source": {
-    "id": "cnn",
-    "name": "CNN"
+    "id": null,
+    "name": "Hindustan Times"
     },
-    "author": "Samantha Delouya",
-    "title": "The Realtors settlement is already changing the way some Americans buy and sell homes - CNN",
-    "description": "The seismic settlement announced by the National Association of Realtors earlier this month has not yet been approved, but it is already sending shockwaves through the real estate industry.",
-    "url": "https://www.cnn.com/2024/03/30/economy/nar-settlement-home-buyers-and-sellers/index.html",
-    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1417037963.jpg?c=16x9&q=w_800,c_fill",
-    "publishedAt": "2024-03-30T12:00:00Z",
-    "content": "The seismic settlement announced by the National Association of Realtors earlier this month has not yet been approved, but it is already sending shockwaves through the real estate industry.\r\nThe mere… [+5265 chars]"
+    "author": "HT Entertainment Desk",
+    "title": "Alia Bhatt lauds Kareena Kapoor, Tabu, Kriti Sanon and Crew makers for smashing the box office: ‘Outstanding women’ - Hindustan Times",
+    "description": "Alia Bhatt's record of Gangubai Kathiawadi's worldwide box office was broken by Crew. The heist comedy stars Kareena Kapoor, Tabu, and Kriti Sanon. | Bollywood",
+    "url": "https://www.hindustantimes.com/entertainment/bollywood/alia-bhatt-lauds-kareena-kapoor-tabu-kriti-sanon-crew-makers-for-smashing-box-office-101711859363111.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/31/1600x900/MixCollage-31-Mar-2024-10-05-AM-8311_1711859696729_1711859726007.jpg",
+    "publishedAt": "2024-03-31T05:02:53Z",
+    "content": "Alia Bhatt is ecstatic for the team of Rajesh A Krishan's heist comedy Crew. The film starring Kareena Kapoor, Tabu, and Kriti Saon, surprised everyone when it secured the biggest opening a woman-led… [+2303 chars]"
     },
     {
     "source": {
-    "id": "associated-press",
-    "name": "Associated Press"
+    "id": null,
+    "name": "Hindustan Times"
     },
-    "author": "PAUL WISEMAN",
-    "title": "Who wouldn't like prices to start falling? Careful what you wish for, economists say - The Associated Press",
-    "description": "Many Americans are in a sour mood about the economy for one main reason: Prices feel too high. Maybe they’re not rising as fast as they had been, but average prices are still painfully above where they were before the pandemic. And they’re mostly heading high…",
-    "url": "https://apnews.com/article/inflation-deflation-prices-economy-eggs-cars-consumers-e3c816373344d54b2e6bdb4be5ed999a",
-    "urlToImage": "https://dims.apnews.com/dims4/default/a488579/2147483647/strip/true/crop/3090x1738+0+161/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F85%2Fbf%2F06f215604e95a45b49ab0b3c434a%2F081c19c58a9249b78f6dd6ddc554d8ca",
-    "publishedAt": "2024-03-30T11:12:00Z",
-    "content": "WASHINGTON (AP) Many Americans are in a sour mood about the economy for one main reason: Prices feel too high. \r\nMaybe theyre not rising as fast as they had been, but average prices are still painful… [+5131 chars]"
+    "author": "PTI",
+    "title": "Mukesh Ambani lauds Shloka Mehta at an event, says she ‘Radiates warmth and wisdom’ - Hindustan Times",
+    "description": "Mukesh Ambani praised Shloka Mehta in Gems and Jewellery Exports Promotion in Mumbai. He also exuded confidence in the industry and said it will develop more.  | Trending",
+    "url": "https://www.hindustantimes.com/trending/mukesh-ambani-lauds-shloka-mehta-at-an-event-says-she-radiates-warmth-and-wisdom-101711858486237.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/31/1600x900/RELIANCE-INDIA-VIACOM-OFFICE-0_1697098496722_1711860731293.JPG",
+    "publishedAt": "2024-03-31T04:59:52Z",
+    "content": "Mukesh Ambani on Saturday, March 30, attended Gems and Jewellery Exports Promotion in Mumbai. While giving his address at the event, he also spoke about his daughter-in-law Shloka Mehta. `\r\nMukesh Am… [+1743 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "News18"
+    },
+    "author": "Manjiri Joshi, Oliver Fredrick",
+    "title": "Aryaka Akhoury's Spat with Mukhtar Ansari's Brother Goes Viral: Meet IAS Officer from Gangster’s Funeral Vi - News18",
+    "description": "Aryaka Akhoury has taken many strict actions, including cancelling firearms licences of miscreants and imposing the Gangster Act against former MLA Vijay Mishra. She had also imposed a ban on wearing jeans-tops and T-shirts in government offices",
+    "url": "https://www.news18.com/india/ghazipur-dm-aryaka-akhoury-mp-brothers-argument-over-mukhtar-ansaris-burial-rites-viral-all-about-the-ias-officer-8834413.html",
+    "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/03/untitled-design-2024-03-4556007ed3183ce6ae6398a35b860f25-16x9.jpg?impolicy=website&width=1200&height=675",
+    "publishedAt": "2024-03-31T03:57:12Z",
+    "content": "As the funeral of gangster-politician Mukhtar Ansari was held on Saturday, a video of his brother MP Afzal Ansaris heated argument with Aryaka Akhoury, District Magistrate (DM), Ghazipur, over the la… [+2304 chars]"
     }
     ]
     }
