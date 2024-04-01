@@ -6,11 +6,11 @@ import { Context } from '../MyContext';
 import { toast } from "react-toastify";
 
 const AddNews = () => {
-    const { signIn,setpostitems,postitems } = useContext(Context);
+    const { signIn,setnewsData,newsData } = useContext(Context);
     const [inputNews, setinputNews] = useState("");
     const [file, setFile] = useState([]);
 
-    console.log(postitems)
+    // console.log(postitems)
 
     function handleChange(e) {
         setFile((olditem) => {
@@ -23,21 +23,23 @@ const AddNews = () => {
             toast.error("empty post is not allowed")
             return
         }
-        setpostitems((oldpost) => {
-            return [...oldpost, {
-                post: inputNews,
-                imageSrc: file
-            }]
+        setnewsData((oldpost) => {
+            return [{
+                "title": "",
+                "url" : "",
+                "description": inputNews,
+                "urlToImage": file
+            },...oldpost]
         })
         setFile([])
         setinputNews("")
-        localStorage.setItem("Posts", JSON.stringify(postitems))
         toast.success("post created")
     }
 
     return (
         <>
             <Navbar />
+            <SideBar/>
             {signIn ?
                 <>
                 <div className="xl:mt-0 mt-32 relative inline-block align-bottom bg-white rounded-lg text-left overflow-hidden shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-[600px] w-full">

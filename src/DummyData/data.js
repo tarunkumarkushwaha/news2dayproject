@@ -1,7 +1,4 @@
-let data = {
-    "status": "ok",
-    "totalResults": 37,
-    "articles": [
+let data = [
     {
     "source": {
     "id": null,
@@ -263,6 +260,6 @@ let data = {
     "content": "As the funeral of gangster-politician Mukhtar Ansari was held on Saturday, a video of his brother MP Afzal Ansaris heated argument with Aryaka Akhoury, District Magistrate (DM), Ghazipur, over the la… [+2304 chars]"
     }
     ]
-    }
+    
 
     export default data

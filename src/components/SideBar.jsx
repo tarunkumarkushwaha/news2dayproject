@@ -1,8 +1,13 @@
 import { useCallback, useEffect, useRef } from "react"
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
+import { useContext } from 'react';
+import { Context } from '../MyContext';
+import { useNavigate } from "react-router-dom";
 
-const SideBar = ({ sidebar, setsidebar, setQuery }) => {
+const SideBar = () => {
+    const { setQuery, sidebar, setsidebar } = useContext(Context);
+    let navigate = useNavigate()
 
     const toggleNav = function () {
         setsidebar(!sidebar)
@@ -31,12 +36,12 @@ const SideBar = ({ sidebar, setsidebar, setQuery }) => {
             <aside ref={menuRef} className={`fixed z-20 top-0 left-0 h-full transition-all duration-1000 ease-in-out ${!sidebar ? "md:w-[25vw] w-[60vw] -translate-x-full" : "md:w-[30vw] w-[60vw] -translate-x-1"}`}>
                 <div className="h-full px-3 py-4 overflow-y-auto bg-gray-800">
                     <div onClick={toggleNav} className={`${sidebar ? "right-10" : "right-[-15px]"} cursor-pointer pl-10 w-4 text-xxl fixed top-8 right-[-15px] text-gray-50`}>
-                    {sidebar ? <CloseIcon/> : <MenuIcon />}
+                        {sidebar ? <CloseIcon /> : <MenuIcon />}
                     </div>
                     <ul className="space-y-2 font-medium">
                         <li>
                             <div className="flex justify-center items-center p-2 text-gray-100 cursor-pointer rounded-lg hover:bg-gray-700">
-                                <span className="ms-3 font-extrabold text-3xl">News2Day</span>
+                                <span onClick={()=>navigate('/')} className="ms-3 font-extrabold text-3xl">News2Day</span>
                             </div>
                         </li>
                         <li>
