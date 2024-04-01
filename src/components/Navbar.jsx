@@ -1,7 +1,11 @@
 import React from 'react'
 import Logo from '../assets/Logo.png'
+import { NavLink } from 'react-router-dom'
+import { useContext } from 'react';
+import { Context } from '../MyContext';
 
-const Navbar = ({ setQuery }) => {
+const Navbar = ({ setQuery}) => {
+    const { signIn } = useContext(Context);
     return (
         <>
             <header className='bg-slate-700 h-20 px-10 flex flex-row justify-between items-center'>
@@ -16,7 +20,10 @@ const Navbar = ({ setQuery }) => {
                         placeholder="Search for news..."
                     />
                 </div>
-
+                {signIn ? <NavLink className={'p-4 text-white'} to={"/addnews"}>Addnews</NavLink>
+                :
+                <NavLink className={'p-4 text-white'} to={"/login"}>Login</NavLink>
+            }
             </header>
         </>
     )
